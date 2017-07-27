@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name angularTreeApp.controller:MainCtrl
+ * @name teste123App.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the angularTreeApp
+ * Controller of the teste123App
  */
-angular.module('angularTreeApp')
+angular.module('teste123App')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

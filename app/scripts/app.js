@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name angularTreeApp
+ * @name teste123App
  * @description
- * # angularTreeApp
+ * # teste123App
  *
  * Main module of the application.
  */
 angular
-  .module('angularTreeApp', [
+  .module('teste123App', [
     'ngRoute',
     'ngTouch'
   ])

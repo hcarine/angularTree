@@ -1,14 +1,14 @@
 {
-  "name": "angular-tree",
+  "name": "teste123",
   "version": "0.0.0",
   "dependencies": {
-    "angular": "^1.3.0",
-    "angular-route": "^1.3.0",
-    "angular-touch": "^1.3.0"
+    "angular": "^1.4.0",
+    "angular-route": "^1.4.0",
+    "angular-touch": "^1.4.0"
   },
   "devDependencies": {
-    "angular-mocks": "^1.3.0"
+    "angular-mocks": "^1.4.0"
   },
   "appPath": "app",
-  "moduleName": "angularTreeApp"
+  "moduleName": "teste123App"
 }
