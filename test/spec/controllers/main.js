@@ -3,7 +3,7 @@
 describe('Controller: MainCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('teste123App'));
+  beforeEach(module('angularTreeApp'));
 
   var MainCtrl,
     scope;

@@ -2,9 +2,9 @@
 
 /**
  * @ngdoc overview
- * @name teste123App
+ * @name angularTreeApp
  * @description
- * # teste123App
+ * # angularTreeApp
  *
  * Main module of the application.
  */

@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name teste123App.controller:AboutCtrl
+ * @name angularTreeApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the teste123App
+ * Controller of the angularTreeApp
  */
 angular.module('angularTreeApp')
   .controller('AboutCtrl', function () {
