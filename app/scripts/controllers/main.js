@@ -7,7 +7,7 @@
  * # MainCtrl
  * Controller of the teste123App
  */
-angular.module('teste123App')
+angular.module('angularTreeApp')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

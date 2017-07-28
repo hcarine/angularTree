@@ -9,7 +9,7 @@
  * Main module of the application.
  */
 angular
-  .module('teste123App', [
+  .module('angularTreeApp', [
     'ngRoute',
     'ngTouch'
   ])

@@ -7,7 +7,7 @@
  * # AboutCtrl
  * Controller of the teste123App
  */
-angular.module('teste123App')
+angular.module('angularTreeApp')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
