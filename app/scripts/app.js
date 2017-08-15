@@ -13,6 +13,9 @@ angular
     'ngRoute',
     'ngTouch'
   ])
+  .config(['$locationProvider', function($locationProvider) {
+    $locationProvider.hashPrefix('');
+  }])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
@@ -24,6 +27,11 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl',
         controllerAs: 'about'
+      })
+      .when('/addElement', {
+        templateUrl: 'views/addElement.html',
+        controller: 'AddElementCtrl',
+        controllerAs: 'addElement'
       })
       .otherwise({
         redirectTo: '/'
